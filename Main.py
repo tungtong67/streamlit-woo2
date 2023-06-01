@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 st.write("""
-# My first app
+# 첫번째 앱
 Hello *world!*
 """)
 
